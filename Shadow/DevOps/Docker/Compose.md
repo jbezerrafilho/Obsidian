@@ -1,0 +1,50 @@
+------
+#docker #compose
+
+>Ferramenta utilizada para definir e  executar múltiplos containers.
+
+
+```shell
+❯ docker compose up (Trava o terminal)
+❯ docker compose up -d (-d detached)
+❯ docker compose down (Remove os containers)
+❯ docker compose ps  
+```
+
+```yml
+#Exemplo de um arquivo compose
+version: '3.3'
+
+services:
+
+  db: #container MySQL
+    image: mysql # FROM mysql:5.7
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    env_file:
+      - ./config/db.env
+    networks:
+      - backend
+    container_name: db-mysql
+    
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    ports:
+      - "8000:80"
+    restart: always
+    env_file:
+      - ./config/wp.env
+    networks:
+      - backend
+    container_name: wp_press
+
+volumes:
+  db_data: {}
+networks:
+  backend:
+    driver: bridge
+
+```

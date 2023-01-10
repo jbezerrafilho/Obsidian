@@ -1,0 +1,12 @@
+- Linux 2
+- cloud 2
+- Kubernete 2
+- Docker 2
+- Dynatrace 0
+- Zabbix 1
+- SQL 2
+- Oracle 2
+- Java 2
+- Network 3
+- Seglog 0
+- WebSphere 0
