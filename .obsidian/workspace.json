@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab575e999d2bc53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadow/Dicionario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8af5a21c6b18ebe9",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Linux/Shell/Users_Groups.md",
+                "file": "Shadow/Dicionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Linux/Shell/Users_Groups.md",
+                "file": "Shadow/Dicionario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Linux/Shell/Users_Groups.md"
+                "file": "Shadow/Dicionario.md"
               }
             }
           }
@@ -147,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd91b13654fd3f8",
+  "active": "ab575e999d2bc53c",
   "lastOpenFiles": [
-    "Shadow/Dicionário.md",
-    "Shadow/Linux/Shell/SySAdmin.md",
+    "Shadow/Linux/Shell/Permissoes.md",
     "Shadow/Linux/Shell/Users_Groups.md",
-    "Shadow/Linux/Shell/Hardware.md",
-    "Shadow/Linux/Fundação.md",
-    "Shadow/Linkedin.md"
+    "Shadow/Help.md",
+    "Shadow/BancoDeDados/PostgreSQL/Instância.md",
+    "Shadow/BancoDeDados/DBA Oracle/4. Memória.md",
+    "Shadow/BancoDeDados/DBA Oracle/3.  Estruturas Físicas.md",
+    "Shadow/BancoDeDados/DBA Oracle/2. Estruturas Lógicas.md",
+    "Shadow/BancoDeDados/DBA Oracle/1. Introdução.md",
+    "Shadow/Dicionario.md",
+    "Shadow/Linux/Shell/SySAdmin.md"
   ]
 }

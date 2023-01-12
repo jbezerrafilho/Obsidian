@@ -33,7 +33,7 @@ $ id paty (Lista grupos com seus respectivos ids)
 #etc_shadow
 $ cat /etc/shadow
 
-=============================================================================
+-----------------------------------------------------------------------
 
 #elevacao_privilegio
 
@@ -48,5 +48,7 @@ $ sudo su (Permite ao usuário logado, executar 'um' comando com privilégio adm
 $ cat /etc/sudoers (Define quais usuários possuem determinado nível de privilégio e quais comando o mesmo poderá executar sem a necessidade do root)
 $ visudo /etc/sudoers (Mostra permissões para grupos de comandos)
 $ usermod -G google-sudoers paty (Add paty ao grupo sudoers)
+
+-----------------------------------------------------------------------
 
 ```
