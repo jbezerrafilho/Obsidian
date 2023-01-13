@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Dicionario.md",
+                "file": "Shadow/Linux/Shell/Permissoes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Dicionario.md",
+                "file": "Shadow/Linux/Shell/Permissoes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Dicionario.md",
+                "file": "Shadow/Linux/Shell/Permissoes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Dicionario.md"
+                "file": "Shadow/Linux/Shell/Permissoes.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "ab575e999d2bc53c",
   "lastOpenFiles": [
+    "Shadow/Dicionario.md",
     "Shadow/Linux/Shell/Permissoes.md",
     "Shadow/Linux/Shell/Users_Groups.md",
     "Shadow/Help.md",
@@ -169,7 +170,6 @@
     "Shadow/BancoDeDados/DBA Oracle/3.  Estruturas Físicas.md",
     "Shadow/BancoDeDados/DBA Oracle/2. Estruturas Lógicas.md",
     "Shadow/BancoDeDados/DBA Oracle/1. Introdução.md",
-    "Shadow/Dicionario.md",
     "Shadow/Linux/Shell/SySAdmin.md"
   ]
 }
