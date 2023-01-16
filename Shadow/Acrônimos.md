@@ -14,6 +14,8 @@
 
 #DBA DataBase Administrator
 
+#DEP Data Execution Protection - Virtualiazação Windows Hyper V ^eef5d1
+
 #DNS Domain Name System 
 
 # E
@@ -38,6 +40,8 @@
 
 #POSIX Portable Operating System Interface 
 
+#PXE Preboot  Execution Environment - Boot pela rede
+
 # R
 
 #RBAC Role Based Access Control - Traefik
@@ -50,5 +54,10 @@
 
 #SGA System Global Area - Oracle DB
 
+#SLAT Second Level Address Translation - Virtualização Windows ^c17aec
+
 #SQL Structured Query Language
 
+# V
+
+#VNIC Virtual Network Interface Card

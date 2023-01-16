@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac175787222395c0",
+        "id": "a5bb3d91efcd327a",
         "type": "tabs",
         "children": [
           {
-            "id": "36a300914044825f",
+            "id": "05431802a99d1c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Linux/Shell/Users_Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab575e999d2bc53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadow/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Linux/Shell/Permissoes.md"
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab575e999d2bc53c",
+  "active": "05431802a99d1c67",
   "lastOpenFiles": [
+    "Shadow/Acrônimos.md",
+    "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/Operational System/Linux/Shell/Users_Groups.md",
+    "Shadow/Operational System/Linux/Shell/Permissoes.md",
+    "Shadow/Linguagens/YAML/Deployment.md",
     "Shadow/Dicionario.md",
-    "Shadow/Linux/Shell/Permissoes.md",
-    "Shadow/Linux/Shell/Users_Groups.md",
     "Shadow/Help.md",
     "Shadow/BancoDeDados/PostgreSQL/Instância.md",
     "Shadow/BancoDeDados/DBA Oracle/4. Memória.md",
-    "Shadow/BancoDeDados/DBA Oracle/3.  Estruturas Físicas.md",
-    "Shadow/BancoDeDados/DBA Oracle/2. Estruturas Lógicas.md",
-    "Shadow/BancoDeDados/DBA Oracle/1. Introdução.md",
-    "Shadow/Linux/Shell/SySAdmin.md"
+    "Shadow/BancoDeDados/DBA Oracle/3.  Estruturas Físicas.md"
   ]
 }
