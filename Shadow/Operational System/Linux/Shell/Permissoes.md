@@ -5,29 +5,33 @@
 De forma resumida, as permissões são atributos que definem se o arquivo ou diretório pode ser ==Read== , ==Write== ou ==Execute==. Uma sequência de 12 bits define uma permissão no Linux.
 
 #permissão
-- 3 bits iniciais (special modes, permissões especiais ou estendidas)
+- 3 bits iniciais  para `special mode`
+- 9 bits restantes para `file mode`
 
-- 9 bits restantes (file mode, permissões para 03 classes de usuários, sendo:)
-	- Usuário proprietário | dono do arquivo
-	- Grupo proprietário do arquivo
-	-  Outros usuários
 
->[!tip] User  RWX Group RWX Other RWX
+>[!tip] A permissão conhecida como 'file mode'  é formada por 9 bits. Entenda que separamos 3 bits para representar a permissão do dono do arquivo ou diretório, 3 bits para o grupo proprietário do arquvio ou diretório e 3 bits para outros usuários do sistema. 
 
-A permissão de execução para o diretório significa poder entrar no diretório.
+#### Por que 3 bits?
 
-Valor Octal:
-- 0 - Sem valor ( - - -)
-- 1 - Execute (- - x)
-- 2 - Write (- w -)
-- 3 - Write e Execute (- w x)
-- 4 - Read (r - -)
-- 5 - Read e Execute (r - x)
-- 6 - Read e Write (r w -)
-- 7 - Read, Write e Execute (r w x)
+**Porque 2³ = 8 que equivale à base octal, então dispomos de 3 bits que lemos da direita para esquerda de acordo com o sistema posicional da base 2.
 
-`$ chmod 755 ninja -v`
-`$ chmod a=rw,g=r,o=r script.sh -v (Podemos adicionar '+', retirar '-' ou atribuir '=' permissão`
+>[!note] (1 1 1) ₂ = (2² + 2¹ + 2⁰)  = 7₁₀ 
+
+4 2 1   4 2 1   4 2 1
+ U           G        O   , onde U = User, G = Group e O = Other.
+**r w x    r w x  r w x
+
+**A permissão de execução para o diretório recém criado é default e  significa que qualquer usuário  poder entrar no diretório.
+
+```shell
+$ chmod 755 ninja -v
+
+( '=' atribuir, '+' append, '-' retirar)
+$ chmod a=rw,g=r,o=r script.sh -v
+
+
+```
+`
 
 
 

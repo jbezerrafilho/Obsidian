@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md"
+                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05431802a99d1c67",
+  "active": "1dd91b13654fd3f8",
   "lastOpenFiles": [
-    "Shadow/Acrônimos.md",
-    "Shadow/DevOps/Virtualização/Hyper - V.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
+    "Shadow/Operational System/Linux/Shortcut.md",
+    "Shadow/Operational System/Linux/Licence.md",
+    "Shadow/Operational System/Linux/Fundação.md",
+    "Shadow/Operational System/Linux/Files/FHS.md",
+    "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/Acrônimos.md",
     "Shadow/Operational System/Linux/Shell/Permissoes.md",
     "Shadow/Linguagens/YAML/Deployment.md",
-    "Shadow/Dicionario.md",
-    "Shadow/Help.md",
-    "Shadow/BancoDeDados/PostgreSQL/Instância.md",
-    "Shadow/BancoDeDados/DBA Oracle/4. Memória.md",
-    "Shadow/BancoDeDados/DBA Oracle/3.  Estruturas Físicas.md"
+    "Shadow/Dicionario.md"
   ]
 }
