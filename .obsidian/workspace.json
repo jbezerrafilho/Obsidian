@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Cloud/Cloud.md",
+                "file": "Shadow/Linkedin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71c77209f011b4f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadow/Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Cloud/Cloud.md",
+                "file": "Shadow/Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Cloud/Cloud.md",
+                "file": "Shadow/Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Cloud/Cloud.md"
+                "file": "Shadow/Thoughts.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05431802a99d1c67",
+  "active": "1dd91b13654fd3f8",
   "lastOpenFiles": [
+    "Shadow/Thoughts.md",
+    "Shadow/Linkedin.md",
+    "Shadow/Cloud/Cloud.md",
     "Shadow/DevOps/Virtualização/Hyper - V.md",
     "Shadow/Dicionario.md",
     "Shadow/Acrônimos.md",
     "Shadow/Operational System/Linux/Shell/Permissoes.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
     "Shadow/Operational System/Linux/Shortcut.md",
-    "Shadow/Operational System/Linux/Licence.md",
-    "Shadow/Operational System/Linux/Fundação.md",
-    "Shadow/Operational System/Linux/Files/FHS.md",
-    "Shadow/Linguagens/YAML/Deployment.md"
+    "Shadow/Operational System/Linux/Licence.md"
   ]
 }
