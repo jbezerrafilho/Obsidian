@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Cloud/Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Cloud/Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
+                "file": "Shadow/Cloud/Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/DevOps/Virtualização/Hyper - V.md"
+                "file": "Shadow/Cloud/Cloud.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "05431802a99d1c67",
   "lastOpenFiles": [
-    "Shadow/Dicionario.md",
     "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/Dicionario.md",
     "Shadow/Acrônimos.md",
     "Shadow/Operational System/Linux/Shell/Permissoes.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
