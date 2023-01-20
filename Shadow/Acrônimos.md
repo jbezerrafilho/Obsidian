@@ -58,6 +58,10 @@
 
 #SQL Structured Query Language
 
+# U
+
+#umask User Mask (Permissão default para user linux)
+
 # V
 
 #VNIC Virtual Network Interface Card

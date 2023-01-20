@@ -26,8 +26,15 @@ De forma resumida, as permissões são atributos que definem se o arquivo ou dir
 ```shell
 $ chmod 755 ninja -v
 
-( '=' atribuir, '+' append, '-' retirar)
-$ chmod a=rw,g=r,o=r script.sh -v
+$ chmod a=rw script.sh -v ('=' atribuir)
+$ chmod u+x script.sh -v ('+' append)
+$ chmod g-r script.sh -v ('-' retirar)
+
+-------------------------------------------------
+
+$ chgrp new_group folder/ or file
+$ chown user folder/ or file
+$ chown user.group folder/ or file (altera dono e grupo de uma vez)
 
 
 ```

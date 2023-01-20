@@ -1,4 +1,15 @@
 ----
+#hypervisor #hyper-v #virtua-box
+
+### História
+
+A Microsoft pra variar dormiu no ponto com a vritualização, demorou a lançar o Hyper-V. Antes, porém, já utilizavam o Virtual PC para emular o Windows XP que tinha muita incompatibilidade com o Windows 7. A partir do Win 2008m, foi lançado a primeira versão do Hyper V.
+
+### Tipos de Hypervisor
+
+1. Baremetal - O Hypervisor tem contato direto com o hardware. Ex: Hyper V, VMWare, Citrix XenServer
+2.  Hosted - O Hypervisor tem contato direto com o SO. Ex: Virtual Box
+
 
 ### Requirements
 

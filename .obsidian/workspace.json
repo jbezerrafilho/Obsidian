@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md",
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Operational System/Linux/Shell/Permissoes.md"
+                "file": "Shadow/DevOps/Virtualização/Hyper - V.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd91b13654fd3f8",
+  "active": "05431802a99d1c67",
   "lastOpenFiles": [
+    "Shadow/Dicionario.md",
+    "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/Acrônimos.md",
+    "Shadow/Operational System/Linux/Shell/Permissoes.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
     "Shadow/Operational System/Linux/Shortcut.md",
     "Shadow/Operational System/Linux/Licence.md",
     "Shadow/Operational System/Linux/Fundação.md",
     "Shadow/Operational System/Linux/Files/FHS.md",
-    "Shadow/DevOps/Virtualização/Hyper - V.md",
-    "Shadow/Acrônimos.md",
-    "Shadow/Operational System/Linux/Shell/Permissoes.md",
-    "Shadow/Linguagens/YAML/Deployment.md",
-    "Shadow/Dicionario.md"
+    "Shadow/Linguagens/YAML/Deployment.md"
   ]
 }

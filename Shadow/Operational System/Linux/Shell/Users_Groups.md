@@ -19,6 +19,7 @@ $ usermod -s /bin/bash paty (Alterando o shell do user paty)
 
 #groupadd #groupdel #groupmod
 $ groupadd rh
+
 #etc_group
 $ cat /etc/group (Verifica grupos)
 

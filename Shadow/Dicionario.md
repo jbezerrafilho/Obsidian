@@ -10,6 +10,8 @@
 
 #findstr `Comando windows equivalente ao #grep no linux com a finalidade de filtrar strings`
 
+#hypervisor Virtualizador
+
 #Metacaractere `Caracter comum que possui função específica em uma expressão regular` ^17d102
 
 #proxy_reverso `Servidor que fica na frente de servidores web e encaminha solicitações de clientes para esses servidores web. Ajuda na segurança, desempenho e confiabilidade. Ex.: Nginx, Haproxy, Traefik.` [Proxy Reverso](https://www.cloudflare.com/pt-br/learning/cdn/glossary/reverse-proxy/) 
