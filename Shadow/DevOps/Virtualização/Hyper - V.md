@@ -34,3 +34,5 @@ A Microsoft pra variar dormiu no ponto com a vritualização, demorou a lançar 
 - **Private - Virtual Machine Connections only
 
 O host que gerencia o Hyper V tem um NIC  network interface card e cada VM possui um VNIC que é conectado à um switch virtual tal qual um switch físico.
+
+[[Virtualização Aninhada]]

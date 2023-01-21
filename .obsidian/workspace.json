@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5bb3d91efcd327a",
+        "id": "3bd1ff8cab7532da",
         "type": "tabs",
         "children": [
           {
-            "id": "05431802a99d1c67",
+            "id": "9c0d4b3e70310d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Linkedin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c77209f011b4f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadow/Thoughts.md",
+                "file": "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8af5a21c6b18ebe9",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Thoughts.md",
+                "file": "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Thoughts.md",
+                "file": "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Thoughts.md"
+                "file": "Shadow/DevOps/Virtualização/Virtualização Aninhada.md"
               }
             }
           }
@@ -159,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd91b13654fd3f8",
+  "active": "9c0d4b3e70310d6a",
   "lastOpenFiles": [
+    "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
     "Shadow/Thoughts.md",
+    "Shadow/Acrônimos.md",
     "Shadow/Linkedin.md",
     "Shadow/Cloud/Cloud.md",
-    "Shadow/DevOps/Virtualização/Hyper - V.md",
     "Shadow/Dicionario.md",
-    "Shadow/Acrônimos.md",
     "Shadow/Operational System/Linux/Shell/Permissoes.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
-    "Shadow/Operational System/Linux/Shortcut.md",
-    "Shadow/Operational System/Linux/Licence.md"
+    "Shadow/Operational System/Linux/Shortcut.md"
   ]
 }
