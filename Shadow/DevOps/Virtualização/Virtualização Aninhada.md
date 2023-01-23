@@ -24,5 +24,6 @@
 	
 	Enter-PSSession -VMName rts-dc1 
 	
-	
+	#criar-diretorio
+	New-Item -ItemType Directory C:\Hyper-V ou mkdir c:\Hyper-V
 ```
