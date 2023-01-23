@@ -10,6 +10,23 @@
 	Start-VM -Name vm1, vm2 (Iniciando VMs pelo Shell)
 	Add-VMNetworkAdapter -VMName "centOS7" -Name "LAN" -DeviceNaming ON (Criando NIC)
 	New-VMSwitch -Name "InternalNat" -SwitchType Internal (Criando um Switch Virtual)
+<<<<<<< HEAD
+=======
+	
+	------------------------------------------------
+	
+	#NAT_Hyper-V
+	
+	Get-NetAdapter (Descobrir o índice da interface de rede)
+	New-NetIPAddress -IPAddress 192.168.0.1 -PrefixLength 24 -InterfaceIndex 56      
+	New-NetNat -Name "NATinterno" -InternalIPInterfaceAddressPrefix 192.168.0.0/24
+	Remove-NetNat -Name "NATinterno"
+	
+	#powershell_direct #powershell_ISE
+	
+	Enter-PSSession -VMName rts-dc1 
+	
+>>>>>>> bcb35fbacb91b909733262e3f22de53fb4022e27
 	
 	------------------------------------------------
 	
