@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c0d4b3e70310d6a",
+            "id": "5497fe00979dc72b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "keyboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c0d4b3e70310d6a",
+  "active": "5497fe00979dc72b",
   "lastOpenFiles": [
-    "Shadow/DevOps/Virtualização/Hyper - V.md",
-    "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
-    "Shadow/Thoughts.md",
-    "Shadow/Acrônimos.md",
-    "Shadow/Linkedin.md",
-    "Shadow/Cloud/Cloud.md",
-    "Shadow/Dicionario.md",
-    "Shadow/Operational System/Linux/Shell/Permissoes.md",
+    "Shadow/Operational System/Linux/Shell/Rede.md",
     "Shadow/Operational System/Linux/Shell/Users_Groups.md",
-    "Shadow/Operational System/Linux/Shortcut.md"
+    "Shadow/Operational System/Linux/Shell/SSH.md",
+    "Shadow/Operational System/Linux/Shell/Regex.md",
+    "Shadow/Operational System/Linux/Shell/Compactadores.md",
+    "Shadow/Operational System/Linux/Shell/Básico.md",
+    "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
+    "Shadow/Operational System/Linux/Shell/SySAdmin.md",
+    "Shadow/DevOps/Virtualização/Hyper - V.md",
+    "Shadow/Thoughts.md"
   ]
 }
