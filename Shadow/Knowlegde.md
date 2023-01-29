@@ -3,7 +3,7 @@
 - Kubernete 2
 - Docker 2
 - Dynatrace 0
-- Zabbix 2
+- Zabbix 1
 - SQL 2
 - Oracle 2
 - Java 2

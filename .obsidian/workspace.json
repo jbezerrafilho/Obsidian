@@ -11,9 +11,11 @@
             "id": "b9d6086d15aa174f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Shadow/0.Images/Pasted image 20221230215049.png"
+                "file": "Shadow/Knowlegde.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/0.Images/Pasted image 20221230215049.png",
+                "file": "Shadow/Knowlegde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/0.Images/Pasted image 20221230215049.png",
+                "file": "Shadow/Knowlegde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/0.Images/Pasted image 20221230215049.png"
+                "file": "Shadow/Knowlegde.md"
               }
             }
           }
@@ -146,15 +148,15 @@
   },
   "active": "b9d6086d15aa174f",
   "lastOpenFiles": [
-    "Shadow/0.Images/Pasted image 20221227173331.png",
+    "Shadow/Acrônimos.md",
     "Shadow/Thoughts.md",
     "Shadow/Linkedin.md",
-    "Shadow/Knowlegde.md",
-    "Shadow/Acrônimos.md",
     "Shadow/Help.md",
     "Shadow/Dicionario.md",
+    "Shadow/Knowlegde.md",
     "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
     "Shadow/Operational System/Linux/Shell/SySAdmin.md",
-    "Shadow/DevOps/Orquestração/Swarm.md"
+    "Shadow/DevOps/Orquestração/Swarm.md",
+    "Shadow/DevOps/Virtualização/Hyper - V.md"
   ]
 }
