@@ -18,3 +18,8 @@
 
 #server_syslog `Armazena mensagens de log de diversos devices de uma rede
 
+#protocolo `Conjunto de convenções às quais os computadores aderem. Ex.: IP`
+
+#meta `Tag HTML que define atributos de responsividade no site`
+
+#viewport `Atributo a tag meta que representa a área retangular do dispositivo`

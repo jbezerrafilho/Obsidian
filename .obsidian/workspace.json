@@ -11,8 +11,12 @@
             "id": "b9d6086d15aa174f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shadow/Acrônimos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8af5a21c6b18ebe9",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shadow/Acrônimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shadow/Acrônimos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shadow/Acrônimos.md"
+              }
             }
           }
         ]
@@ -141,15 +148,15 @@
   },
   "active": "b9d6086d15aa174f",
   "lastOpenFiles": [
+    "Shadow/Thoughts.md",
+    "Shadow/Linkedin.md",
+    "Shadow/Help.md",
+    "Shadow/Dicionario.md",
+    "Shadow/Knowlegde.md",
     "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
-    "Shadow/Operational System/Linux/Shell/Rede.md",
-    "Shadow/Operational System/Linux/Shell/Users_Groups.md",
-    "Shadow/Operational System/Linux/Shell/SSH.md",
-    "Shadow/Operational System/Linux/Shell/Regex.md",
-    "Shadow/Operational System/Linux/Shell/Compactadores.md",
-    "Shadow/Operational System/Linux/Shell/Básico.md",
     "Shadow/Operational System/Linux/Shell/SySAdmin.md",
+    "Shadow/DevOps/Orquestração/Swarm.md",
     "Shadow/DevOps/Virtualização/Hyper - V.md",
-    "Shadow/Thoughts.md"
+    "Shadow/DevOps/Docker/Compose.md"
   ]
 }

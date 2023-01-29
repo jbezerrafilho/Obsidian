@@ -4,14 +4,15 @@
 
 #powershell #hyper-v_cli
 
+
+
 ```shell
 	
 	Set-VMProcessor -VMName hostname -ExposeVirtualizationExtensions $true
 	Start-VM -Name vm1, vm2 (Iniciando VMs pelo Shell)
-	Add-VMNetworkAdapter -VMName "centOS7" -Name "LAN" -DeviceNaming ON (Criando NIC)
-	New-VMSwitch -Name "InternalNat" -SwitchType Internal (Criando um Switch Virtual)
-<<<<<<< HEAD
-=======
+	Add-VMNetworkAdapter -VMName "centOS7" -Name "LAN" -DeviceNaming ON   
+	New-VMSwitch -Name "InternalNat" -SwitchType Internal           
+
 	
 	------------------------------------------------
 	
@@ -26,7 +27,7 @@
 	
 	Enter-PSSession -VMName rts-dc1 
 	
->>>>>>> bcb35fbacb91b909733262e3f22de53fb4022e27
+
 	
 	------------------------------------------------
 	
