@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow/Knowlegde.md",
+                "file": "Shadow/Acrônimos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadow/Knowlegde.md",
+                "file": "Shadow/Acrônimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadow/Knowlegde.md",
+                "file": "Shadow/Acrônimos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadow/Knowlegde.md"
+                "file": "Shadow/Acrônimos.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "b9d6086d15aa174f",
   "lastOpenFiles": [
-    "Shadow/Acrônimos.md",
+    "Shadow/Dicionario.md",
     "Shadow/Knowlegde.md",
+    "Shadow/Acrônimos.md",
     "Shadow/Thoughts.md",
     "Shadow/Linkedin.md",
     "Shadow/Help.md",
-    "Shadow/Dicionario.md",
     "Shadow/DevOps/Virtualização/Virtualização Aninhada.md",
     "Shadow/Operational System/Linux/Shell/SySAdmin.md",
     "Shadow/DevOps/Orquestração/Swarm.md",

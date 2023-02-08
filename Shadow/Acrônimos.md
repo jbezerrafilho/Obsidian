@@ -22,6 +22,10 @@
 
 #EOF End Of File
 
+# F
+
+#FMA Flaxcast Management Architecture
+
 # I
 
 #IAC Infrastructure As Code
@@ -58,10 +62,17 @@
 
 #SQL Structured Query Language
 
+
+# T
+
+#TIC Tecnologia da Infirmação e Segurança
+
 # U
 
 #umask User Mask (Permissão default para user linux)
 
 # V
+
+#VDA Virtual Delivery Agent
 
 #VNIC Virtual Network Interface Card
